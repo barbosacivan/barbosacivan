@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @barbosacivan
 - 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... HTML/CCS/JavaScript
+- 🌱 I’m currently learning ... HTML/CSS/JavaScript
 - 💞️ I’m looking to collaborate on ... HTML Projects/exercises
 - 📫 How to reach me ...
 
